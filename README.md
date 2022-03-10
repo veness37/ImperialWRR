@@ -1,6 +1,6 @@
 # ImperialWRR
 
-WRR.Zip contains full input data and modelling scripts to support WRR submission 'Localized Hydrological Drought Early Warning using In-situ Groundwater Sensors'.
+WRR Veness et al. (2022) .Zip contains full input data and modelling scripts to support WRR submission 'Localizing Hydrological Drought Early Warning using In-situ Groundwater Sensors'.
 
 'WRR_Data_Extraction' contains input data and processing of these for model input.
 
